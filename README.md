@@ -1,7 +1,7 @@
 # CRUDphp
  CRUD in PHP for user registration, project made for study reasons.
  
- <img src="/assets/img/illustrations/Online%20page-cuate.svg" alt="User registration">
+ <img src="/assets/img/illustrations/Online%20page-cuate.svg" style="width: 30%!important;" alt="User registration">
  
 ![GitHub repo size](https://img.shields.io/github/repo-size/eudanielhenrique/CRUDphp?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/eudanielhenrique/CRUDphp?style=for-the-badge)
