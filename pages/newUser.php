@@ -1,4 +1,4 @@
-<center><h1>Novo usuario</h1></center>
+<center><h1 style="padding: 10px; ">Novo usuario</h1></center>
 
 <div class="container">
 <form action="?page=save" method="POST">
