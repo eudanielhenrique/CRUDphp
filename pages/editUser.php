@@ -1,4 +1,4 @@
-<h1>Editar Usuarios</h1>
+<center><h1 style="padding: 10px;">Editar Usuarios</h1></center>
 
 <?php
   $sql = "SELECT * FROM usuarios WHERE id=".$_REQUEST["id"];
@@ -6,6 +6,7 @@
   $row = $res -> fetch_object();
 
 ?>
+<center><img src="/CRUDphp/assets/img/illustrations/edit.svg" style="width: 30%!important;" alt=""></center>
 
 <form action="?page=save" method="POST">
   <input type="hidden" name="action" value="edit">
