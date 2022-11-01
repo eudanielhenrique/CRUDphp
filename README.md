@@ -1,6 +1,8 @@
 # CRUDphp
  CRUD in PHP for user registration, project made for study reasons.
  
+ <img src="/assets/img/illustrations/Online%20page-cuate.svg" alt="User registration">
+ 
 ![GitHub repo size](https://img.shields.io/github/repo-size/eudanielhenrique/CRUDphp?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/eudanielhenrique/CRUDphp?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/eudanielhenrique/CRUDphp?style=for-the-badge)
@@ -33,24 +35,24 @@ Alternatively, see the GitHub documentation at [how to create a pull request](ht
 
 ## Screenshot
 
-🚀 System start
+## 🚀 System start
 <img src="https://i.imgur.com/AcIzQAZ.png" alt="system start">
 
-👥 User registration
+## 👥 User registration
 <img src="https://i.imgur.com/eUMQgqB.png" alt="User registration">
 
-📃 User listing
+## 📃 User listing
 <img src="https://i.imgur.com/qQCvocE.png" alt="User listing">
 
-🖍  Edit user
+## 🖍  Edit user
 <img src="https://i.imgur.com/qQCvocE.png" alt="edit user">
 
 
-## 😄 Seja um dos contribuidores<br>
+## 😄 Be one of the contributors<br>
 
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
 
-## 📝 Licença
+## 📝 License
 
 This project is under license. see the file [LICENÇA](LICENSE.md) for more details.
 [⬆ Back to the top](## CRUDphp)<br>
