@@ -6,6 +6,7 @@
   $qtd = $res -> num_rows;
 
   if ($qtd > 0){
+    print '<center><img src="/CRUDphp/assets/img/illustrations/Online wishes list-rafiki.svg" style="width: 30%!important;" alt=""></center>';
     print "<div class='border border-dark rounded'>";
     print "<table class='table table-striped'>";
     print "<tr>";
@@ -32,6 +33,8 @@
     }
     print "</table>";
     print "</div>";
+    print "<p>Encontrou <b>$qtd</b> resultado(s)</p>";
+
   }else{
     print "<div class='alert alert-danger'>Nenhum usuario cadastrado!</div>";
   }
