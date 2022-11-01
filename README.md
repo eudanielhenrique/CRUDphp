@@ -11,9 +11,10 @@
 <h1 align="center">
  <img src="/assets/img/illustrations/Online%20page-cuate.svg" style="width: 30%!important;" alt="User registration"></center>
 </h1>
- > CRUD in PHP for user registration, project made for study reasons.
 
-##🚀 Instruction to start
+CRUD in PHP for user registration, project made for study reasons.
+
+## 🚀 Instruction to start
 - Clone the repository using the command ``` git clone git@github.com:eudanielhenrique/CRUDphp.git```
 - Go to the downloaded CrudPhp directory using ```cd CrudPhp``` command in command line
 - Import the sql file from the folder to your database
