@@ -1,13 +1,17 @@
 # CRUDphp
- CRUD in PHP for user registration, project made for study reasons.
- 
- <center><img src="/assets/img/illustrations/Online%20page-cuate.svg" style="width: 30%!important;" alt="User registration"></center>
 
+ 
 ![GitHub repo size](https://img.shields.io/github/repo-size/eudanielhenrique/CRUDphp?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/eudanielhenrique/CRUDphp?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/eudanielhenrique/CRUDphp?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/eudanielhenrique/CRUDphp?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/eudanielhenrique/CRUDphp?style=for-the-badge)
+
+
+<h1 align="center">
+ <img src="/assets/img/illustrations/Online%20page-cuate.svg" style="width: 30%!important;" alt="User registration"></center>
+</h1>
+ > CRUD in PHP for user registration, project made for study reasons.
 
 ##🚀 Instruction to start
 - Clone the repository using the command ``` git clone git@github.com:eudanielhenrique/CRUDphp.git```
