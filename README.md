@@ -9,7 +9,7 @@
 
 
 <h1 align="center">
- <img src="/assets/img/illustrations/Online%20page-cuate.svg" style="width: 30%!important;" alt="User registration"></center>
+ <img src="https://i.imgur.com/2q7z8BZ.png" alt="User registration"></center>
 </h1>
 
 CRUD in PHP for user registration, project made for study reasons.
